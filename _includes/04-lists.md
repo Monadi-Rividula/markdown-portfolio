@@ -1,4 +1,4 @@
-* Singing
-* Swimming
+:star:* Singing
+:star:* Swimming
   * Cycling
   * Badminton
